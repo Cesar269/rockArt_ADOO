@@ -32,3 +32,26 @@ p{
     margin: 15px;
     padding: 15px;
 }
+.equipo{
+    text-align: center;
+    margin-bottom: 35px;
+    color: rgb(224, 229, 233);
+}
+.equipo li{
+    list-style: square;
+    font-size: 18px;
+}
+table{
+    width: 100%;
+    margin: 15px, 0px;
+}
+table th{
+    background-color: rgb(125, 127, 129);
+}
+table th,tr{
+    text-align: center;
+}
+a{
+    color: aliceblue;
+    cursor: pointer;
+}
